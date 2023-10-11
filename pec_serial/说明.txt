@@ -1,0 +1,4 @@
+﻿pec.cpp是排列熵的串行程序
+Untitled.cpp是排列熵改进的串行程序，主要是实现重构矩阵分块
+pec_mpi.cpp是MPI并行版本，里面有大量注释
+data.in是5万大坝数据
